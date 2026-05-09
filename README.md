@@ -1,5 +1,6 @@
 # AI Engineer Mastery - 10 Week Journey
 
+<<<<<<< HEAD
 **Start Date:** April 20, 2026  
 **Target Role:** Graduate AI Engineer  
 **Target Salary:** ₹24 LPA+  
@@ -25,6 +26,18 @@
 
 ### What I Learned Today
 
+=======
+**Start Date:** May 10, 2026  
+**Current Status:** Day 2 Complete ✅
+
+---
+---
+
+## 🐍 Day 2: Decorators & Generators (April 21, 2026)
+
+### What I Learned Today
+
+>>>>>>> 386a24a7c0f69e17c96a6ed2507e6905912c50b6
 #### Decorators (Functions that modify functions)
 - **Timer decorator** - Measure execution time of any function
 - **Retry decorator** - Automatically retry failed operations (API calls, database connections)
@@ -72,4 +85,8 @@ def retry(max_attempts: int = 3, delay: float = 1.0):
 @retry(max_attempts=5, delay=2.0)
 def call_unstable_api():
     # This will retry 5 times before failing
+<<<<<<< HEAD
     pass
+=======
+    pass
+>>>>>>> 386a24a7c0f69e17c96a6ed2507e6905912c50b6
