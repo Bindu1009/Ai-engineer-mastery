@@ -1,9 +1,7 @@
 # AI Engineer Mastery - 10 Week Journey
 
 <<<<<<< HEAD
-**Start Date:** April 20, 2026  
-**Target Role:** Graduate AI Engineer  
-**Target Salary:** ₹24 LPA+  
+ 
 **Current Status:** Day 2 Complete ✅
 
 ---
